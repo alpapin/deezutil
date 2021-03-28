@@ -1,0 +1,2 @@
+# deezutil
+Python Deezer API
